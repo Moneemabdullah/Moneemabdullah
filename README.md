@@ -1,10 +1,4 @@
-<h2 align=“left”>Hi 👋!<br> I am MONEEM.<br> and I’m a Programmer, from Bangladesh.</h2>
-
-
-
-
-
-
+<h2 align=“left”>Hi 👋!<br> I am <i><b>MONEEM</i></b><br>A Programmer, from Bangladesh.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
