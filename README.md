@@ -15,6 +15,43 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+###
+<!-- Trophy Row Using Table for GitHub Compatibility -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
+          width="80px" 
+          alt="Trophy" 
+        />
+        <br/>
+        <strong>
+          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_memories-61223-lets-hear-for-2nd-activity-7275246645242445824-Q8KV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" style="text-decoration: none; color: inherit;">
+            DevFest23
+          </a>
+        </strong>
+      </td>
+      <td align="center">
+        <img 
+          src="https://cdn-icons-png.flaticon.com/256/2817/2817756.png" 
+          width="80px" 
+          alt="Trophy" 
+        />
+        <br/>
+        <strong>
+          <a href="https://www.linkedin.com/posts/rifat-hossain-6b21741b3_we-are-champions-%E0%A6%B9-%E0%A6%B9-%E0%A6%B6%E0%A6%A8%E0%A6%A8-%E0%A6%86%E0%A6%AE-%E0%A6%AC%E0%A6%B2-activity-7326273970318512128-4a_b?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGuEeYByBGel2cuVxArzqhx669ltAfNyXQ" target="_blank" style="text-decoration: none; color: inherit;">
+            CseFest25
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moneemabdullah&show_icons=true&locale=en&layout=compact" alt="moneemabdullah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moneemabdullah&show_icons=true&locale=en" alt="moneemabdullah" /></p>
