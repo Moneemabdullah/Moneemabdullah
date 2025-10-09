@@ -1,28 +1,28 @@
-<h2 align="left">Hi 👋! I'm <b><i>MONEEM</i></b><br>A Programmer from <span style="color:green;"><b>BANGLADESH</b></span>💚
-</br></h2>
+# Hi 👋, I'm Moneem Abdullah
 
+**A passionate programmer and developer from Bangladesh 🇧🇩**
+
+[![GitHub followers](https://img.shields.io/github/followers/Moneemabdullah?label=Follow&style=social)](https://github.com/Moneemabdullah)
+
+---
+## 🧑‍💻 About Me
+
+- 🔭 I’m Moneem Abdullah, also known as **moneemabdullah** online
+- 🌍 From: Bangladesh 🇧🇩
+- 💼 Software & Web Developer
+- 🔗 Portfolio: [Your personal website, if any]
+- 🧠 Currently learning: DevOps, AI, and Systems Design
 
 
 ### 🌐 Connect with Me
 
-<p >
-  </br>
-  <a href="https://www.linkedin.com/in/moneem-all-abdullah-4b07a9288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/moneemall.abdullah/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/moneem.abdullah/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a></br>
-  <a href="https://leetcode.com/user7674pr/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:moneem.all.abdullah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+- [LinkedIn – Moneem All Abdullah](https://www.linkedin.com/in/moneem-all-abdullah-4b07a9288/)
+- [Facebook – moneemall.abdullah](https://www.facebook.com/moneemall.abdullah/)
+- [Instagram – moneem.abdullah](https://www.instagram.com/moneem.abdullah/)
+- [LeetCode – user7674pr](https://leetcode.com/user7674pr/)
+- 📧 moneem.all.abdullah@gmail.com
+
 
 ---
 
@@ -135,3 +135,5 @@
 
 </p>
 <!-- Made with ❤️ by Moneem -->
+<!-- GitHub Profile of Moneem Abdullah - moneemabdullah - Programmer from Bangladesh -->
+
