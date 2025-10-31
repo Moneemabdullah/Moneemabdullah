@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Moneemabdullah?label=Follow&style=social)](https://github.com/Moneemabdullah)
 
----
+
 ## 🧑‍💻 About Me
 
 - 🔭 I’m Moneem Abdullah, also known as **moneemabdullah** online
@@ -24,8 +24,9 @@
 - 📧 moneem.all.abdullah@gmail.com
 
 
----
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 ### 🛠️ Tech Stack
 
 <p>
