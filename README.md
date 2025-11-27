@@ -19,48 +19,20 @@
 
 
 
-## 🌐 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/moneem-all-abdullah-4b07a9288/)
-- 🔵 [Facebook](https://www.facebook.com/moneemall.abdullah/)
-- 📸 [Instagram](https://www.instagram.com/moneem.abdullah/)
-- 👨‍💻 [LeetCode](https://leetcode.com/user7674pr/)
-- 📧 **moneem.all.abdullah@gmail.com**
-
-
-
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <!-- 🔹 First Row -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,c,cpp,bootstrap,tailwind" />
+  <br/>
+  <!-- 🔹 Second Row -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,postgresql,sqlite" />
+  <br/>
+  <!-- 🔹 Third Row -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,docker" />
+</p>
 
-### **Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 
-### **Frontend**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-
-### **Backend**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-
-### **Databases**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-
-### **Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
-
-</div>
 
 
 
@@ -116,9 +88,6 @@
 ## 🚀 Top Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Moneemabdullah&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-<p align="center">
   <img src="https://greptile-stats.vercel.app/api/widget/Moneemabdullah/contributions" />
 </p>
 
@@ -131,6 +100,16 @@
 </p>
 
 ---
+
+## 🌐 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/moneem-all-abdullah-4b07a9288/)
+- 🔵 [Facebook](https://www.facebook.com/moneemall.abdullah/)
+- 📸 [Instagram](https://www.instagram.com/moneem.abdullah/)
+- 👨‍💻 [LeetCode](https://leetcode.com/user7674pr/)
+- 📧 **moneem.all.abdullah@gmail.com**
+
+
 
 <div align="center">
   <b>Made with ❤️ by Moneem</b>
