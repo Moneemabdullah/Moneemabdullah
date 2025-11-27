@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Moneem Abdullah**
 
-**A passionate programmer, learner & full-stack developer from Bangladesh**
+**A passionate programmer, learner & full-stack developer from BANGLADESH**
 
 [![GitHub followers](https://img.shields.io/github/followers/Moneemabdullah?label=Follow&style=social)](https://github.com/Moneemabdullah)
 [![Profile Views](https://komarev.com/ghpvc/?username=Moneemabdullah&label=Visitors&color=blue&style=flat)](https://github.com/Moneemabdullah)
