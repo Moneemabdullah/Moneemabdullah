@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,postgresql,sqlite" />
   <br/>
   <!-- 🔹 Third Row -->
-  <img src="https://skillicons.dev/icons?i=django,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,docker,prisma" />
 </p>
 
 
