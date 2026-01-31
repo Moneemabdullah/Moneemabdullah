@@ -73,23 +73,7 @@
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/Moneemabdullah/archtype" />
-</p>
-
-<p align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/Moneemabdullah/stats" />
-</p>
-
-
-
-## 🚀 Top Contributions
-
-<p align="center">
-  <img src="https://greptile-stats.vercel.app/api/widget/Moneemabdullah/contributions" />
-</p>
 
 
 
